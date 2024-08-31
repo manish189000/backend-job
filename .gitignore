@@ -1,7 +1,5 @@
-# Ignore the backend/config folder
-backend/config/
-
-# Other ignore patterns
+# Ignore node_modules
 node_modules/
-config.env
-*.log
+
+# Ignore config.env file
+/config/config.env
